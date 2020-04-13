@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001298008379",
+    "firebase_url": "https://spe-bue.firebaseio.com",
+    "project_id": "spe-bue",
+    "storage_bucket": "spe-bue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001298008379:android:86a268b75fd3d4aca07f1e",
+        "android_client_info": {
+          "package_name": "com.example.spe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001298008379-p66oruk42rs7u7jvof9kjidsut7la5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRvFl7ZcQvWYNIPKu78zjK7uxUuGFZqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001298008379-p66oruk42rs7u7jvof9kjidsut7la5j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
